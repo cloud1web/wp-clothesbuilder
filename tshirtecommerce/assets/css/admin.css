@@ -1,0 +1,37 @@
+.menu-left > li:first-child{display:none}
+.dg-tools button{display:none}
+.dg-tools button.btn-desktop{display:inline-block}
+.dg-tools button:first-child{display:inline-block}
+.product-prices button.btn-addcart, .product-price-list, .price-restart{display:none}
+.product-price-info {border: 0!important;}
+div#product-price{border:0 none}
+#product-attributes{display:none}
+#dg-share .modal-body{display:none}
+#store_product_categories{height:auto;font-size:12px;text-align:left;max-height:150px;overflow:auto}
+.arrow-mobile > button{display:none;}
+.idea-fields {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 100;
+    background: #fff;
+    display: none;
+    float: left;
+    max-width: 210px;
+    border: 1px solid #f1f1f1;
+    padding: 6px 10px;
+    background-color: #f5f5f5;
+    margin-left: -8px;
+    max-height: 440px;
+    overflow: auto;
+}
+.control-layer-field {
+    float: left;
+    clear: both;
+    display: block;
+    padding-top: 6px;
+    cursor: pointer;
+}
+.modal.fade.in {
+    overflow:auto!important;
+}

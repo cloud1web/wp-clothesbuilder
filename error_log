@@ -1,0 +1,5 @@
+[19-Feb-2018 20:57:22 UTC] PHP Fatal error:  Call to undefined function is_product() in /home/rwmdev/public_html/clothesbuilder/wp-content/plugins/tshirtecommerce/includes/product_images.php on line 6
+[19-Feb-2018 21:02:15 UTC] PHP Fatal error:  Call to undefined function is_product() in /home/rwmdev/public_html/clothesbuilder/wp-content/plugins/tshirtecommerce/includes/product_images.php on line 6
+[20-Feb-2018 01:16:27 UTC] PHP Fatal error:  Call to undefined function is_product() in /home/rwmdev/public_html/clothesbuilder/wp-content/plugins/tshirtecommerce/includes/product_images.php on line 6
+[20-Feb-2018 01:16:35 UTC] PHP Fatal error:  Call to undefined function is_product() in /home/rwmdev/public_html/clothesbuilder/wp-content/plugins/tshirtecommerce/includes/product_images.php on line 6
+[20-Feb-2018 01:16:43 UTC] PHP Fatal error:  Call to undefined function is_product() in /home/rwmdev/public_html/clothesbuilder/wp-content/plugins/tshirtecommerce/includes/product_images.php on line 6
